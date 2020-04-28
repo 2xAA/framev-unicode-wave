@@ -1,0 +1,20 @@
+{
+  "name": "pattern-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "open-simplex-noise": "1.6.0",
+    "runes": "0.4.3"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [],
+  "browserslist": ["last 2 Chrome versions"]
+}
