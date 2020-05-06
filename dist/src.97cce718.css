@@ -1,2 +1,2 @@
 @import url("https://v36p9.codesandbox.io/style.css");body,html{height:100%}body{position:relative;overflow:hidden;margin:0}#controls,canvas{position:absolute}#controls{z-index:100;top:10px;left:10px;max-width:300px}input{display:block}label input{display:inline}article{margin-bottom:1em}#about{position:absolute;right:10px;bottom:10px;z-index:100}.hide{display:none}
-/*# sourceMappingURL=/static/src.97cce718.css.map */
+/*# sourceMappingURL=/src.97cce718.css.map */
